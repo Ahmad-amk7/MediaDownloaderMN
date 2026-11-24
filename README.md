@@ -52,6 +52,8 @@ SoundCloud links switch the empty-table quick mode to MP3 when one of the video 
 
 ## Responsible use
 
+**This project is intended for education, learning, knowledge sharing, supporting open-source software, and enriching the software ecosystem. The author and contributors do not authorize or encourage copyright infringement or unauthorized downloads and disclaim responsibility for users' misuse; each user is responsible for ensuring they have the necessary rights and follow platform terms and applicable laws.**
+
 Download only content that you own or are explicitly authorized to download. Follow YouTube's and SoundCloud's terms, copyright rules, and all applicable laws. This project does not claim to bypass DRM, paywalls, or access restrictions.
 
 ---
@@ -110,6 +112,8 @@ Bei SoundCloud-Links wechselt der Schnellmodus bei leerer Formattabelle von eine
 
 ## Verantwortungsvolle Nutzung
 
+**Dieses Projekt dient der Bildung, dem Lernen, dem Wissensaustausch, der Unterstützung von Open-Source-Software und der Bereicherung des Software-Ökosystems. Der Autor und die Mitwirkenden genehmigen oder fördern weder Urheberrechtsverletzungen noch unbefugte Downloads und lehnen die Verantwortung für einen Missbrauch durch Nutzer ab; jeder Nutzer ist selbst dafür verantwortlich, die erforderlichen Rechte zu besitzen und die Plattformbedingungen sowie geltende Gesetze einzuhalten.**
+
 Laden Sie nur Inhalte herunter, die Ihnen gehören oder für deren Download Sie ausdrücklich berechtigt sind. Beachten Sie die Nutzungsbedingungen von YouTube und SoundCloud, das Urheberrecht und alle geltenden Gesetze. Dieses Projekt beansprucht nicht, DRM, Bezahlschranken oder Zugriffsbeschränkungen zu umgehen.
 
 ---
@@ -167,5 +171,7 @@ dotnet build .\MediaDownloaderM.slnx
 - يعتمد استخراج الوسائط على مشروع `yt-dlp` الخارجي. هذا التطبيق غير تابع لـ YouTube أو SoundCloud أو `yt-dlp` أو FFmpeg ولا يحظى بتأييدها.
 
 ## الاستخدام المسؤول
+
+**يهدف هذا المشروع إلى التعليم والتعلّم والمعرفة وتبادلها ودعم البرمجيات مفتوحة المصدر وإثراء المحتوى البرمجي. لا يجيز المؤلف والمساهمون انتهاك حقوق الملكية أو التنزيل غير المصرّح به ولا يشجعونهما، ويخلون مسؤوليتهم عن إساءة استخدام البرنامج؛ ويتحمّل كل مستخدم مسؤولية التأكد من امتلاكه الحقوق اللازمة والتزامه بشروط المنصات والقوانين المعمول بها.**
 
 نزّل فقط المحتوى الذي تملكه أو لديك تصريح صريح بتنزيله. التزم بشروط YouTube وSoundCloud وحقوق النشر والقوانين المعمول بها. لا يدّعي هذا المشروع تجاوز DRM أو أنظمة الدفع أو قيود الوصول.
